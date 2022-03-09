@@ -1,0 +1,1 @@
+This is a repository documenting my scraper projects developed using Python with several packages including Selenium, Pandas and BeautifulSoup.
